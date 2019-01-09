@@ -1,0 +1,77 @@
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... ok
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... skipped '我不想执行这个case'
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK (skipped=1)
+test_add (test_mathfun.TestMathFun) ... ok
+test_divide (test_mathfun.TestMathFun) ... skipped '不执行'
+test_minus (test_mathfun.TestMathFun) ... ok
+test_multi (test_mathfun.TestMathFun) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
